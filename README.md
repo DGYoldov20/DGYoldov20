@@ -14,5 +14,5 @@
 
 <br>
 
-<p align= "left">Badges</p>
+<p align= "left">Badges:</p>
 <p align= "left"><img src= "https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" alt= "HTMLbadge" width= "50" height= "50"> &nbsp <img src= "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" alt= "WORDbadge" width= "50" height= "50"</p>
