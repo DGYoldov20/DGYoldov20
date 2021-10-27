@@ -3,7 +3,7 @@
 <br>
 <ul>
   <li> 🌱 I’m currently learning C++, HTML5 and CSS3</li>
-
+  <li>Student of VSCPI</li>
   <li> 📫 How to reach me DGYoldov20@codingburgas.bg</li>
  </ul>
 <br>
