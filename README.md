@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dimitar Yoldov</h1>
 <h3 align="center">I am a student at <a href= "https://github.com/codingburgas">codingburgas</a>. I like to play video games and learn new things everyday.</h3>
 <br>
-<p> 🌱 I’m currently learning C++, HTML5 and CSS3</p>
+<ul>
+  <li> 🌱 I’m currently learning C++, HTML5 and CSS3</li>
 
-<p> 📫 How to reach me DGYoldov20@codingburgas.bg</p>
+  <li> 📫 How to reach me DGYoldov20@codingburgas.bg</li>
+ </ul>
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGYoldov20&count_bg=%2333A4EC&title_bg=%23808482&icon=sourcegraph.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a>
 
