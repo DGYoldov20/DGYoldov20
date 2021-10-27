@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **DGYoldov20@codingburgas.bg**
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%231BEF0A&title_bg=%230E0E0E&icon=libuv.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2333A4EC&title_bg=%23808482&icon=sourcegraph.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
