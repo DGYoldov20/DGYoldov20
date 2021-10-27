@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitar Yoldov</h1>
-<h3 align="center">I am a student at <a href= "https://github.com/codingburgas">codingburgas</a></h3>
+<h3 align="center">I am a student at <a href= "https://github.com/codingburgas">codingburgas</a>. I like to play video games and learn new things everyday.</h3>
 
 - 🌱 I’m currently learning **C++, HTML5 and CSS3**
 
