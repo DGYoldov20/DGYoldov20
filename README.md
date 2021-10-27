@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **C++, HTML5 and CSS3**
 
 - 📫 How to reach me **DGYoldov20@codingburgas.bg**
+<br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGYoldov20&count_bg=%2333A4EC&title_bg=%23808482&icon=sourcegraph.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
