@@ -2,7 +2,7 @@
 <h3 align="center">I am a student at <a href= "https://github.com/codingburgas">codingburgas</a>. I like to play video games and learn new things everyday.</h3>
 <br>
 <ul>
-  <li> 🌱 I’m currently learning C++, HTML5 and CSS3</li>
+  <li> 🌱 I’m currently learning C++</li>
   <li> 🎓 Student of VSCPI Burgas</li>
   <li> 🕹 Interested in games and programming</li>
   <li> 📫 How to reach me DGYoldov20@codingburgas.bg</li>
